@@ -1,0 +1,4 @@
+{
+  "type": "object",
+  "required": ["calc_table", "calc_id", "save_field"]
+}

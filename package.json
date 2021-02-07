@@ -1,0 +1,17 @@
+{
+  "name": "calculate-module",
+  "version": "2.0.0",
+  "description": "",
+  "main": "./dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .\\dist\\app.js"
+  },
+  "author": "LateXLin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.21.16",
+    "mysql": "^2.18.1"
+  }
+}
